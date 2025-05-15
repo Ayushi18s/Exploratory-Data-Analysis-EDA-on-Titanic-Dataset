@@ -27,9 +27,8 @@ The dataset used is the classic **Titanic** dataset containing information on pa
 
 
 ## Data Cleaning
-## Dropped unnecessary column Deck 
-
-## Filled missing values in:
+ Dropped unnecessary column Deck 
+ Filled missing values in:
 - Age with mean
 - Embarked with most value_counts()
 
